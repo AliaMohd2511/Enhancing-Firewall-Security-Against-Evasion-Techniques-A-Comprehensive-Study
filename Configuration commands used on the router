@@ -1,0 +1,15 @@
+interface FastEthernet0/0
+description to WAN
+nameif outside
+ip address 10.1.1.1 255.255.255.0
+!
+interface FastEthernet0/1
+description to LAN
+nameif inside
+ip address 192.168.0.1 255.255.255.0
+!
+interface FastEthernet1/0
+description to DMZ1
+nameif dmz1
+ip address 192.168.1.1 255.255.255.0
+
