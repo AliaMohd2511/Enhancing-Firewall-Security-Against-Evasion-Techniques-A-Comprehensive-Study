@@ -1,2 +1,2 @@
-This project aims to strengthen firewall security measures by investigating and mitigating evasion techniques, particularly focusing on the vulnerability introduced by port scanning, using Nmap command as a case study. 
+This project aims to strengthen firewall security measures by investigating and mitigating evasion techniques, particularly focusing on the vulnerability introduced by port scanning, using NMAP command as a case study. 
 The goal is to enhance the effectiveness of firewalls in protecting private internal networks from unauthorized access while acknowledging and addressing potential weaknesses in the current security infrastructure
